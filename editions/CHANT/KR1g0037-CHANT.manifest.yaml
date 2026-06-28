@@ -1,0 +1,34 @@
+canonical_identifier: bkk:krp/KR1g0037/CHANT/v1
+canonical_location: https://kanripo.org/bkk/KR1g0037/CHANT/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 五經大義一卷
+  identifiers:
+    krp: KR1g0037
+  tags:
+    kr-categories: KR1g
+    tls-dates: dat04500
+  source:
+    repository: tls-texts
+    path: data/tls/KR1g0037.xml
+  edition:
+    short: CHANT
+assets:
+  parts:
+  - {seq: 1, filename: KR1g0037_001-CHANT.yaml, hash: 'sha256:e685f856d43cd4e1874b968c69cfebc210a69d3e2cdd91f6ca5f8525a22a68ca'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR1g0037_001-CHANT.markers.yaml, hash: 'sha256:0e24bd1a147ece0242748627696a1c9fe5dbcb5aafdb3cc9eb202674b46f7472'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR1g0037_CHANT_001-1a.1-h
+    span:
+    - body
+    - 0
+    - 357
+  label: 五經大義
+  type: section
+  level: 1
+hash: sha256:5324709cba8c47fdee092265929730fbc047697b332b37468dbc65b6ea0e49c0
