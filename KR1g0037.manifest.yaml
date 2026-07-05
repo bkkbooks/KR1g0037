@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR1g0037_001.yaml, hash: 'sha256:ad6349df62c3eefa3444918b50dd1b5e2fb5aa56386687709c9b389ee03dd989'}
+  - {seq: 1, filename: KR1g0037_001.yaml, hash: 'sha256:e685f856d43cd4e1874b968c69cfebc210a69d3e2cdd91f6ca5f8525a22a68ca'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR1g0037_001.markers.yaml, hash: 'sha256:763428f8d89b20bc90a40a2167db7df50a751c55b1b35a104f335e66a9536e26'}
+  - {seq: 1, role: markers, filename: assets/KR1g0037_001.markers.yaml, hash: 'sha256:a70b07ea168acb3719d38ed48ea065bfe64bd4b992563d49eaaaefbc7fa6d9cf'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,7 +31,4 @@ table_of_contents:
   label: 五經大義
   type: section
   level: 1
-hash: sha256:51fbfc5d12a64c85808666b4806390e810e4902760f22b61694ad64eb208e377
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:b92e1527c6d9b6392beb697c44e81ff60ab2292f66e52466d9c74290e2d07847
